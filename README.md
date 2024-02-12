@@ -1,3 +1,5 @@
 # genombilim.github.io
 
-![Book logo](/genombilim.github.io/assets/egenombilim2024.pdf)
+![Book logo](/genombilim.github.io/docs/assets/egenombilim2024.pdf)
+
+
