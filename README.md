@@ -5,4 +5,4 @@
 
 
 Bir önceki okullarimiz hakkinda daha fazla bilgi icin buraya tiklayin.
-<a href="[http://www.something.com](https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Something </a>
+<a href="https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Something </a>
