@@ -6,3 +6,7 @@
 
 
 <a href="https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Bir önceki okullarimiz hakkinda daha fazla bilgi icin buraya tiklayin. </a>
+
+<a href="https://docs.google.com/spreadsheets/d/1K26sUrWdc2ybOAbIRHyc0t4ksxafgllzc2mUYuQb9r4/edit?pli=1#gid=1579295898"> Ders programimizi burada bulabilirsiniz. Üstünde degisiklikler olabilir. </a>
+
+
