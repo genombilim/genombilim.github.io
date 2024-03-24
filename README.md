@@ -24,8 +24,6 @@ Kabul edilen öğrencilerimizi ve yedek listemizi Haziran Ayi ortasında aciklay
 Teorik derslerimizi tüm üniversiteye açık dersliklerde düzenleyerek her ilgilenenin katilimini destekleyeceğiz.
 Ayrıca evsahibi okulumuzdan bes katilimcimizi burssuz olarak proje ve pratik derslerimize de dahil edeceğiz. Bu kotaya başvuracak katilimcilarimizda Tübitak bursu uygunluğu aramayacagimiz icin secim kriterlerimize uymanız başvurmanız icin yeterli olacaktır. Başvurunuz sirasinda bu kotadan değerlendirilmek isteyip istemediğinizi işaretleyebilirsiniz.
 
-**iletisim:​** genombilim.kisokulu@gmail.com 
-
 
 <a href="https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Bir önceki okullarimiz hakkinda daha fazla bilgi icin buraya tiklayin. </a>
 
@@ -34,5 +32,6 @@ Ayrıca evsahibi okulumuzdan bes katilimcimizi burssuz olarak proje ve pratik de
 Evrimsel Genombilim Uygulamalı Eğitim 2024 kapsamında kayıt veya katılım ücreti alınmayacaktır. Yaz okuluna katılacak öğrencilerin yol, yemek ve konaklama masraflarının karşılanabilmesi için Tübitak 2237A Bilimsel Eğitim Etkinliği Düzenleme Desteği programına başvuru yapılmıştır. Sonuclar yazin aciklanacak.
 
 Gecmis yıllara ait tum sunum ve veri setleri bu GitHub hesabında bulunabilir. 
-
 <a href="https://github.com/genombilim"> github.com/genombilim </a>
+
+**iletisim:​** genombilim.kisokulu@gmail.com 
