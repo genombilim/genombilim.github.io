@@ -11,7 +11,7 @@ Başvuracak adayların en geç  31 Mayis 2024 tarihine kadar ilişikteki formu d
 Kabul edilen öğrencilerimizi ve yedek listemizi Haziran Ayi ortasında aciklayacagiz.
   
 **Şeçim Kriterleri:​**
-- [ ]Adayın çalışma alanının, bilimsel hedeflerinin ve geçmiş deneyimlerinin kurs kapsamında ele alınan konulara olan yakınlığı
+- Adayın çalışma alanının, bilimsel hedeflerinin ve geçmiş deneyimlerinin kurs kapsamında ele alınan konulara olan yakınlığı
 - [ ]Programlama ve istatistiksel yazılım dillerine hakimiyet
 - [ ]Farklı Üniversiteler, kadın/erkek sayısı, ve çalışma alanı arası denge ve çeşitlilik
 
