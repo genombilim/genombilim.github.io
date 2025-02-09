@@ -1,6 +1,7 @@
 # Evrimsel Genombilim Okulu 2024
 
-[egenombilim2025.pdf](https://github.com/user-attachments/files/18724001/egenombilim2025.pdf)
+![egenombilim2025](https://github.com/user-attachments/assets/dfea043f-c512-4637-8433-c186cd8dc3b2)
+
 
 <img width="1429" alt="Bildschirmfoto 2023-09-25 um 15 16 14" src="https://tugcebilgin.files.wordpress.com/2024/02/egenombilim2024-1.jpg">
 
