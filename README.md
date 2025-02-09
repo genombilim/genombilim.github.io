@@ -1,4 +1,4 @@
-# Evrimsel Genombilim Okulu 2024
+# Evrimsel Genombilim Okulu 2025
 
 ![egenombilim2025](https://github.com/user-attachments/assets/dfea043f-c512-4637-8433-c186cd8dc3b2)
 
