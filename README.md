@@ -13,25 +13,26 @@ Başvuracak adayların en geç  30 Mayis 2025 tarihine kadar ilişikteki formu d
 Kabul edilen öğrencilerimizi ve yedek listemizi Haziran Ayi ortasında aciklayacagiz.
   
 **Seçim Kriterleri:​**
-- Adayın çalışma alanının, bilimsel hedeflerinin ve geçmiş deneyimlerinin kurs kapsamında ele alınan konulara olan yakınlığı
-- Programlama ve istatistiksel yazılım dillerine hakimiyet
-- Farklı Üniversiteler, kadın/erkek sayısı, ve çalışma alanı arası denge ve çeşitlilik
+Okula kabul ettigimiz ögrencilerin okulumuzdam maksimum fayda saglayabilmeleri icin asagidaki kriterlere bakiyoruz. Ideal adayin:
+- lisans üstü ögrenimi okul sürecinde devam etmektedir
+- üstüne calistigi/calisacagi projenin egitim konulariyla direk alakasi vardir
+- kurs kapsamında ele alınan konularda altyapi eksikligi bulunmaktadir
+- programlama ve istatistiksel yazılım dillerinde tecrübesi vardir
+- bilimsel hedefleri ve geçmiş deneyimleri kurs kapsamında ele alınan konulara olan yakındir
+
+Farklı Üniversiteler, kadın/erkek sayısı, ve çalışma alanı arası denge ve çeşitlilik de kriterlerimiz arasindadir.  
 
 **2237A Tübitak Bursuna Uygunluk:​**
 
 - Tübitak 2237A bursu ile desteklenen diğer benzer çalıştaylara/kurslara/seminerlere katılımın bes kerenin altında olmasi
 - Okul süresince lisansüstü egitimine devam eden ögrenci olma şarti (yeni mezun, lisans, veya postdok ne yazık ki uygun degil.)
 
-**Evsahibi okulumuz Hacettepe Üniversitesi’ndekilerin dikkatine:​**
-Teorik derslerimizi tüm üniversiteye açık dersliklerde düzenleyerek her ilgilenenin katilimini destekleyeceğiz.
-Ayrıca evsahibi okulumuzdan bes katilimcimizi burssuz olarak proje ve pratik derslerimize de dahil edeceğiz. Bu kotaya başvuracak katilimcilarimizda Tübitak bursu uygunluğu aramayacagimiz icin secim kriterlerimize uymanız başvurmanız icin yeterli olacaktır. Başvurunuz sirasinda bu kotadan değerlendirilmek isteyip istemediğinizi işaretleyebilirsiniz.
-
 
 <a href="https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Bir önceki okullarimiz hakkinda daha fazla bilgi icin buraya tiklayin. </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1K26sUrWdc2ybOAbIRHyc0t4ksxafgllzc2mUYuQb9r4/edit?pli=1#gid=2022709799"> Ders programimizi burada bulabilirsiniz. </a>
 
-Evrimsel Genombilim Uygulamalı Eğitim 2024 kapsamında kayıt veya katılım ücreti alınmayacaktır. Yaz okuluna katılacak öğrencilerin yol, yemek ve konaklama masraflarının karşılanabilmesi için Tübitak 2237A Bilimsel Eğitim Etkinliği Düzenleme Desteği programına başvuru yapılmıştır. Sonuclar yazin aciklanacak.
+Evrimsel Genombilim Uygulamalı Eğitim 2025 kapsamında kayıt veya katılım ücreti alınmayacaktır. Yaz okuluna katılacak öğrencilerin yol, yemek ve konaklama masraflarının karşılanabilmesi için Tübitak 2237A Bilimsel Eğitim Etkinliği Düzenleme Desteği programına başvuru yapılmıştır. Sonuclar yazin aciklanacak.
 
 Gecmis yıllara ait tum sunum ve veri setleri bu GitHub hesabında bulunabilir. 
 <a href="https://github.com/genombilim"> github.com/genombilim </a>
