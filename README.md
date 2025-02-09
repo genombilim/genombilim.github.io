@@ -6,7 +6,7 @@
 <img width="1429" alt="Bildschirmfoto 2023-09-25 um 15 16 14" src="https://tugcebilgin.files.wordpress.com/2024/02/egenombilim2024-1.jpg">
 
 **Başvuru:**
-Başvuracak adayların en geç  31 Mayis 2024 tarihine kadar ilişikteki formu doldurmaları ve tarafımıza iletmeleri rica olunur.
+Başvuracak adayların en geç  30 Mayis 2025 tarihine kadar ilişikteki formu doldurmaları ve tarafımıza iletmeleri rica olunur.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz7GaVkyBgLaLAmng7dhLhh5ZU6wrGpglZFDvlOE1whIKjOA/viewform?usp=sf_link"> Başvuru formu </a>
 
