@@ -12,18 +12,17 @@ Kabul edilen öğrencilerimizi ve yedek listemizi Haziran Ayi ortasında aciklay
   
 **Seçim Kriterleri:​**
 Okula kabul ettigimiz ögrencilerin okulumuzdam maksimum fayda saglayabilmeleri icin asagidaki kriterlere bakiyoruz. Ideal adayin:
-- lisans üstü ögrenimi okul sürecinde devam etmektedir
+- lisans veya lisans üstü ögrenimi okul sürecinde devam etmektedir
 - üstüne calistigi/calisacagi projenin egitim konulariyla direk alakasi vardir
 - kurs kapsamında ele alınan konularda altyapi eksikligi bulunmaktadir
 - programlama ve istatistiksel yazılım dillerinde tecrübesi vardir
 - bilimsel hedefleri ve geçmiş deneyimleri kurs kapsamında ele alınan konulara olan yakındir
 
-Farklı Üniversiteler, kadın/erkek sayısı, ve çalışma alanı arası denge ve çeşitlilik de kriterlerimiz arasindadir.  
-
-**2237A Tübitak Bursuna Uygunluk:​**
+Farklı Üniversiteler, kadın/erkek sayısı, ve çalışma alanı arası denge ve çeşitlilik de kriterlerimiz arasindadir.
+Ögrencilerimize tam burslu bir okul tecrübesi yasatabilmek adina sadece 2237A Tübitak bursuna uygun ögrencileri kabul ediyoruz. Bu kriterler asagidaki gibidir:
 
 - Tübitak 2237A bursu ile desteklenen diğer benzer çalıştaylara/kurslara/seminerlere katılımın bes kerenin altında olmasi
-- Okul süresince lisansüstü egitimine devam eden ögrenci olma şarti (yeni mezun, lisans, veya postdok ne yazık ki uygun degil.)
+- Okul süresince lisans veya lisans üstü egitimine devam eden ögrenci olma şarti (yeni mezun veya postdok ne yazık ki uygun degil.)
 
 
 <a href="https://egenombilim.wixsite.com/home/gecmis-okullarimiz"> Bir önceki okullarimiz hakkinda daha fazla bilgi icin buraya tiklayin. </a>
